@@ -1,2 +1,2 @@
 # Numpy_assignment
-guvi assignment 2
+guvi task 2
